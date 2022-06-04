@@ -1,0 +1,10 @@
+body{
+    background-color: cornflowerblue;
+}
+
+img, button{
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+}

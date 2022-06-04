@@ -1,0 +1,50 @@
+h1{
+    background-color: rgb(16, 182, 66);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3{
+    background-color:#4169e1;
+    border: 5px dotted rgb(217, 219, 223);
+}
+body {
+    background-color: rgb(41, 238, 238);
+    text-align: center;
+}
+
+p{
+    border: 5px solid blanchedalmond;
+    color: rgb(65, 61, 61);
+    text-align: center;
+}
+
+ul,ol{
+    list-style: none;
+    border: 2px dashed white;
+    max-width:500px;
+    display: block;
+    margin: 0 auto;
+    display:flex;
+    
+}
+li{
+    margin: 20px;
+    font-size:20px;
+    color: rgb(82, 79, 79);
+}
+
+
+div{
+    background-color:chartreuse;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 40px auto;
+    border:5px dashed gray;
+}
+
+img {
+    border: 5px dotted rgb(105, 143, 201);
+}
